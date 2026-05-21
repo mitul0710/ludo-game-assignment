@@ -1,0 +1,7 @@
+{
+    "name": "mitul/ludo-game-assignment",
+    "license": "MIT",
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
+}
