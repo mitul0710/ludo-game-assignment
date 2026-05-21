@@ -19,6 +19,7 @@ The implementation supports:
 
 # Project Structure
 
+```text
 ludo-game-assignment/
 │
 ├── src/
@@ -38,6 +39,7 @@ ludo-game-assignment/
 ├── index.php
 ├── README.md
 └── .gitignore
+```
 
 ---
 
